@@ -6,6 +6,7 @@ target/
 manager/target/
 worker/target/
 .mvn/
+mvnw*
 *.iws
 *.iml
 *.ipr
