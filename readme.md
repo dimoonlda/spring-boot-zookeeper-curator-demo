@@ -1,4 +1,5 @@
 Demo project for trying a bundle spring boot, zookeeper and curator.
+
 First, you need Zookeeper. You can start it from docker:
  - docker run --restart always -p 2181:2181 -d zookeeper
 To use zookeeper console client use:
